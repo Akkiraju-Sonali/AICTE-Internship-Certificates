@@ -7,7 +7,7 @@ This repository contains my AICTE-approved virtual internship certificates.
 - AI-ML Virtual Internship
 - Networking Virtual Internship
 - Android Developer Virtual Internship
-- **Advanced Embedded Systems Virtual Internship (Ongoing)**
+- Advanced Embedded Systems Virtual Internship 
 
 
 Issued by: **All India Council for Technical Education (AICTE)**
